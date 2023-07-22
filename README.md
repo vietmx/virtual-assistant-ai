@@ -80,11 +80,4 @@
 
     </p>
 
-7.  ### Project Members 👨‍👦
-
-    <br/>
-
-    <a href="https://github.com/HydraPhyzer">![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/106366894?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d) &nbsp;&nbsp;
-    <a href="https://github.com/Qasim643">![avatar](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/119734375?v=4?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d)
-
 ---
